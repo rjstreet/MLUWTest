@@ -1,0 +1,11 @@
+C:\Users\rjstr\source\c#\MLTHBUWTest\obj\Debug\netcoreapp2.0\MLTHBUWTest.csprojAssemblyReference.cache
+C:\Users\rjstr\source\c#\MLTHBUWTest\obj\Debug\netcoreapp2.0\MLTHBUWTest.csproj.CoreCompileInputs.cache
+C:\Users\rjstr\source\c#\MLTHBUWTest\obj\Debug\netcoreapp2.0\MLTHBUWTest.AssemblyInfoInputs.cache
+C:\Users\rjstr\source\c#\MLTHBUWTest\obj\Debug\netcoreapp2.0\MLTHBUWTest.AssemblyInfo.cs
+C:\Users\rjstr\source\c#\MLTHBUWTest\bin\Debug\netcoreapp2.0\MLTHBUWTest.deps.json
+C:\Users\rjstr\source\c#\MLTHBUWTest\bin\Debug\netcoreapp2.0\MLTHBUWTest.runtimeconfig.json
+C:\Users\rjstr\source\c#\MLTHBUWTest\bin\Debug\netcoreapp2.0\MLTHBUWTest.runtimeconfig.dev.json
+C:\Users\rjstr\source\c#\MLTHBUWTest\bin\Debug\netcoreapp2.0\MLTHBUWTest.dll
+C:\Users\rjstr\source\c#\MLTHBUWTest\bin\Debug\netcoreapp2.0\MLTHBUWTest.pdb
+C:\Users\rjstr\source\c#\MLTHBUWTest\obj\Debug\netcoreapp2.0\MLTHBUWTest.dll
+C:\Users\rjstr\source\c#\MLTHBUWTest\obj\Debug\netcoreapp2.0\MLTHBUWTest.pdb
